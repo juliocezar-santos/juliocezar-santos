@@ -11,10 +11,8 @@
 
 ## 🚀 Technologies I'm learning
 
-- Python
-- HTML
-- CSS
-- C++
-- JavaScrpit
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,git,github,vscode" />
+</p>
 
 
