@@ -12,7 +12,7 @@
 ## 🚀 Technologies I'm learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,git,github" />
 </p>
 
 
