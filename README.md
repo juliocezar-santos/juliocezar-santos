@@ -8,7 +8,7 @@
 - 📚 Always looking to learn new technologies and improve my development skills.
 
 
-## 🚀 Technologies I'm learning
+## 🧩 Technologies I'm learning
 
 ### 💻 Languages & Technologies
 
